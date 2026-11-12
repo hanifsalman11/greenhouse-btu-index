@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "greenhouse_name": "6×8 Ft Backyard Polycarbonate Greenhouse (4mm/6mm Twin-Wall)",
+    "slug": "68-ft-backyard-polycarbonate-greenhouse-4mm6mm-twin-wall-btu-fan-calculator",
+    "title": "6×8 Ft Backyard Polycarbonate Greenhouse (4mm/6mm Twin-Wall) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (6,800 BTU/hr / 2.0 kW across 207 sq ft of 6mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Backyard Polycarbonate Greenhouse (4mm/6mm Twin-Wall).",
+    "btu": 6800,
+    "kw": 2.0,
+    "u_val": 0.62,
+    "cfm": 350,
+    "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "8×10 Ft Cedar & Polycarbonate Greenhouse (Yardistry / Palram)",
+    "slug": "810-ft-cedar-polycarbonate-greenhouse-yardistry-palram-btu-fan-calculator",
+    "title": "8×10 Ft Cedar & Polycarbonate Greenhouse (Yardistry / Palram) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (9,400 BTU/hr / 2.8 kW across 305 sq ft of 6mm Twin-Wall Polycarbonate), 660 CFM exhaust shutter fan, and passive water barrels for 8×10 Ft Cedar & Polycarbonate Greenhouse (Yardistry / Palram).",
+    "btu": 9400,
+    "kw": 2.8,
+    "u_val": 0.58,
+    "cfm": 660,
+    "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Hobby Greenhouse (Palram Canopia Balance / Mythos)",
+    "slug": "812-ft-hobby-greenhouse-palram-canopia-balance-mythos-btu-fan-calculator",
+    "title": "8×12 Ft Hobby Greenhouse (Palram Canopia Balance / Mythos) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,600 BTU/hr / 3.1 kW across 345 sq ft of 6mm Twin-Wall Polycarbonate), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Hobby Greenhouse (Palram Canopia Balance / Mythos).",
+    "btu": 10600,
+    "kw": 3.1,
+    "u_val": 0.58,
+    "cfm": 790,
+    "date": "2026-11-12"
+  }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GreenhouseBTUIndex — Greenhouse Winter Heater BTU/kW, Glazing U-Value & Exhaust Fan CFM Calculator (2026)</title>
+  <meta name="description" content="Calculate exact greenhouse winter heat-loss BTU/hr and kW, twin-wall polycarbonate vs glass U-value savings, 1-minute summer shutter exhaust fan CFM, and passive water barrel thermal mass for Palram, Yardistry, Planta, and hoop houses.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/greenhouse-btu-index/">
+  <link rel="alternate" type="application/rss+xml" title="GreenhouseBTUIndex RSS Feed" href="https://hanifsalman11.github.io/greenhouse-btu-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-emerald-500 text-slate-950 px-2 py-0.5 rounded font-black">GREENHOUSE</span>BTUIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Greenhouse%2BHeater%2BThermostat%2BTwin%2BWall%2BPolycarbonate%2BPanels%2BShutter%2BExhaust%2BFan&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Greenhouse Heaters, Polycarbonate & Exhaust Fans on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Greenhouse Winter BTU Heater, Glazing U-Value & Exhaust Fan Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your greenhouse dimensions or polycarbonate/glass glazing below to calculate ASABE surface-area winter heat loss (BTU/hr & kW), summer shutter exhaust fan CFM, and 55-gallon thermal water barrels.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search greenhouse size or model (e.g. 8x12 Polycarbonate, 10x16, Palram Canopia, Yardistry, Planta, Bio Green Palma, 8mm...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-emerald-500">
+      </div>
+    </div>
+
+    <div id="ghGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="812-ft-hobby-greenhouse-palram-canopia-balance-mythos-btu-fan-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">10,600 BTU (3.1 kW)</span>
+            <span class="text-xs text-slate-400">U=0.58 | 790 CFM Fan</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">8×12 Ft Hobby Greenhouse (Palram Canopia Balance / Mythos)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter heat loss (10,600 BTU/hr / 3.1 kW across 345 sq ft of 6mm Twin-Wall Polycarbonate), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Hobby Greenhouse (Palram Canopia Balance / Mythos).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Winter BTU, U-Value & Fan CFM →</span>
+        </a>
+        <a href="810-ft-cedar-polycarbonate-greenhouse-yardistry-palram-btu-fan-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">9,400 BTU (2.8 kW)</span>
+            <span class="text-xs text-slate-400">U=0.58 | 660 CFM Fan</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">8×10 Ft Cedar & Polycarbonate Greenhouse (Yardistry / Palram)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter heat loss (9,400 BTU/hr / 2.8 kW across 305 sq ft of 6mm Twin-Wall Polycarbonate), 660 CFM exhaust shutter fan, and passive water barrels for 8×10 Ft Cedar & Polycarbonate Greenhouse (Yardistry / Palram).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Winter BTU, U-Value & Fan CFM →</span>
+        </a>
+        <a href="68-ft-backyard-polycarbonate-greenhouse-4mm6mm-twin-wall-btu-fan-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-emerald-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-emerald-500 text-slate-950 px-2.5 py-0.5 rounded">6,800 BTU (2.0 kW)</span>
+            <span class="text-xs text-slate-400">U=0.62 | 350 CFM Fan</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-emerald-400 transition">6×8 Ft Backyard Polycarbonate Greenhouse (4mm/6mm Twin-Wall)</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact winter heat loss (6,800 BTU/hr / 2.0 kW across 207 sq ft of 6mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Backyard Polycarbonate Greenhouse (4mm/6mm Twin-Wall).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-emerald-400">Calculate Winter BTU, U-Value & Fan CFM →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 GreenhouseBTUIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('ghGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
