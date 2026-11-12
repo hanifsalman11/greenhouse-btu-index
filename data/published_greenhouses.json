@@ -64,5 +64,38 @@
     "u_val": 0.52,
     "cfm": 1580,
     "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "12×20 Ft Commercial-Style Hobby Greenhouse (8mm Twin-Wall)",
+    "slug": "1220-ft-commercial-style-hobby-greenhouse-8mm-twin-wall-btu-fan-calculator",
+    "title": "12×20 Ft Commercial-Style Hobby Greenhouse (8mm Twin-Wall) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (21,200 BTU/hr / 6.2 kW across 692 sq ft of 8mm Twin-Wall Polycarbonate), 2,260 CFM exhaust shutter fan, and passive water barrels for 12×20 Ft Commercial-Style Hobby Greenhouse (8mm Twin-Wall).",
+    "btu": 21200,
+    "kw": 6.2,
+    "u_val": 0.52,
+    "cfm": 2260,
+    "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "12×24 Ft Estate Victorian Glass Greenhouse (Single Tempered)",
+    "slug": "1224-ft-estate-victorian-glass-greenhouse-single-tempered-btu-fan-calculator",
+    "title": "12×24 Ft Estate Victorian Glass Greenhouse (Single Tempered) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (49,600 BTU/hr / 14.5 kW across 826 sq ft of 4mm Single Tempered Glass), 2,880 CFM exhaust shutter fan, and passive water barrels for 12×24 Ft Estate Victorian Glass Greenhouse (Single Tempered).",
+    "btu": 49600,
+    "kw": 14.5,
+    "u_val": 1.13,
+    "cfm": 2880,
+    "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "14×28 Ft High-Tunnel Quonset Hoop House (Single 6-Mil Poly)",
+    "slug": "1428-ft-high-tunnel-quonset-hoop-house-single-6-mil-poly-btu-fan-calculator",
+    "title": "14×28 Ft High-Tunnel Quonset Hoop House (Single 6-Mil Poly) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (53,000 BTU/hr / 15.5 kW across 977 sq ft of Single 6-Mil UV Poly Film), 3,700 CFM exhaust shutter fan, and passive water barrels for 14×28 Ft High-Tunnel Quonset Hoop House (Single 6-Mil Poly).",
+    "btu": 53000,
+    "kw": 15.5,
+    "u_val": 1.15,
+    "cfm": 3700,
+    "date": "2026-11-12"
   }
 ]
