@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/greenhouse-btu-index/</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,6 +57,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/greenhouse-btu-index/1428-ft-high-tunnel-quonset-hoop-house-single-6-mil-poly-btu-fan-calculator.html</loc>
     <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/2048-ft-commercial-high-tunnel-double-inflated-6-mil-poly-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/3072-ft-commercial-production-greenhouse-double-poly-8mm-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/palram-canopia-harmony-mythos-68-610-heater-sizing-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>

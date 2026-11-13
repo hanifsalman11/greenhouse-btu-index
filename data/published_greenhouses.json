@@ -97,5 +97,38 @@
     "u_val": 1.15,
     "cfm": 3700,
     "date": "2026-11-12"
+  },
+  {
+    "greenhouse_name": "20×48 Ft Commercial High-Tunnel (Double-Inflated 6-Mil Poly)",
+    "slug": "2048-ft-commercial-high-tunnel-double-inflated-6-mil-poly-btu-fan-calculator",
+    "title": "20×48 Ft Commercial High-Tunnel (Double-Inflated 6-Mil Poly) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (78,300 BTU/hr / 22.9 kW across 2,107 sq ft of Double-Inflated Poly Film), 11,100 CFM exhaust shutter fan, and passive water barrels for 20×48 Ft Commercial High-Tunnel (Double-Inflated 6-Mil Poly).",
+    "btu": 78300,
+    "kw": 22.9,
+    "u_val": 0.7,
+    "cfm": 11100,
+    "date": "2026-11-13"
+  },
+  {
+    "greenhouse_name": "30×72 Ft Commercial Production Greenhouse (Double Poly / 8mm)",
+    "slug": "3072-ft-commercial-production-greenhouse-double-poly-8mm-btu-fan-calculator",
+    "title": "30×72 Ft Commercial Production Greenhouse (Double Poly / 8mm) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (141,100 BTU/hr / 41.4 kW across 4,089 sq ft of Double-Inflated Poly + Endwalls), 28,350 CFM exhaust shutter fan, and passive water barrels for 30×72 Ft Commercial Production Greenhouse (Double Poly / 8mm).",
+    "btu": 141100,
+    "kw": 41.4,
+    "u_val": 0.65,
+    "cfm": 28350,
+    "date": "2026-11-13"
+  },
+  {
+    "greenhouse_name": "Palram Canopia Harmony & Mythos 6×8 & 6×10 Heater Sizing",
+    "slug": "palram-canopia-harmony-mythos-68-610-heater-sizing-btu-fan-calculator",
+    "title": "Palram Canopia Harmony & Mythos 6×8 & 6×10 Heater Sizing Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (7,900 BTU/hr / 2.3 kW across 241 sq ft of 6mm Twin-Wall Polycarbonate), 440 CFM exhaust shutter fan, and passive water barrels for Palram Canopia Harmony & Mythos 6×8 & 6×10 Heater Sizing.",
+    "btu": 7900,
+    "kw": 2.3,
+    "u_val": 0.62,
+    "cfm": 440,
+    "date": "2026-11-13"
   }
 ]
