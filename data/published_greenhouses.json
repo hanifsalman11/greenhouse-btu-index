@@ -130,5 +130,38 @@
     "u_val": 0.62,
     "cfm": 440,
     "date": "2026-11-13"
+  },
+  {
+    "greenhouse_name": "Palram Canopia Oasis & Glory 8×12 & 8×16 Heater Sizing",
+    "slug": "palram-canopia-oasis-glory-812-816-heater-sizing-btu-fan-calculator",
+    "title": "Palram Canopia Oasis & Glory 8×12 & 8×16 Heater Sizing Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 369 sq ft of 8mm Twin-Wall Polycarbonate), 860 CFM exhaust shutter fan, and passive water barrels for Palram Canopia Oasis & Glory 8×12 & 8×16 Heater Sizing.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.55,
+    "cfm": 860,
+    "date": "2026-11-13"
+  },
+  {
+    "greenhouse_name": "Costco Yardistry 6.7×7.6 & 8×10 Cedar Greenhouse Heating",
+    "slug": "costco-yardistry-6776-810-cedar-greenhouse-heating-btu-fan-calculator",
+    "title": "Costco Yardistry 6.7×7.6 & 8×10 Cedar Greenhouse Heating Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (9,400 BTU/hr / 2.8 kW across 305 sq ft of 6mm Polycarbonate + Cedar Knee), 660 CFM exhaust shutter fan, and passive water barrels for Costco Yardistry 6.7×7.6 & 8×10 Cedar Greenhouse Heating.",
+    "btu": 9400,
+    "kw": 2.8,
+    "u_val": 0.58,
+    "cfm": 660,
+    "date": "2026-11-13"
+  },
+  {
+    "greenhouse_name": "Planta Sigma 20 & Sungrow 26 (10×20 & 10×26) Arctic Heating",
+    "slug": "planta-sigma-20-sungrow-26-1020-1026-arctic-heating-btu-fan-calculator",
+    "title": "Planta Sigma 20 & Sungrow 26 (10×20 & 10×26) Arctic Heating Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (21,200 BTU/hr / 6.2 kW across 680 sq ft of 10mm Twin-Wall Polycarbonate), 2,050 CFM exhaust shutter fan, and passive water barrels for Planta Sigma 20 & Sungrow 26 (10×20 & 10×26) Arctic Heating.",
+    "btu": 21200,
+    "kw": 6.2,
+    "u_val": 0.48,
+    "cfm": 2050,
+    "date": "2026-11-13"
   }
 ]
