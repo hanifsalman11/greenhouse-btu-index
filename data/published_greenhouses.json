@@ -196,5 +196,38 @@
     "u_val": 0.52,
     "cfm": 1430,
     "date": "2026-11-14"
+  },
+  {
+    "greenhouse_name": "Dr. Heater DR218-1500W vs 240V 4,800W Greenhouse Heater",
+    "slug": "dr-heater-dr218-1500w-vs-240v-4800w-greenhouse-heater-btu-fan-calculator",
+    "title": "Dr. Heater DR218-1500W vs 240V 4,800W Greenhouse Heater Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (11,700 BTU/hr / 3.4 kW across 399 sq ft of 16,380 BTU/hr 240V Heater), 1,000 CFM exhaust shutter fan, and passive water barrels for Dr. Heater DR218-1500W vs 240V 4,800W Greenhouse Heater.",
+    "btu": 11700,
+    "kw": 3.4,
+    "u_val": 0.55,
+    "cfm": 1000,
+    "date": "2026-11-14"
+  },
+  {
+    "greenhouse_name": "Modine Hot Dawg HD30 & HD45 Propane Greenhouse Unit Heater",
+    "slug": "modine-hot-dawg-hd30-hd45-propane-greenhouse-unit-heater-btu-fan-calculator",
+    "title": "Modine Hot Dawg HD30 & HD45 Propane Greenhouse Unit Heater Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (50,400 BTU/hr / 14.8 kW across 1,255 sq ft of 30,000–45,000 BTU Vented Gas), 5,380 CFM exhaust shutter fan, and passive water barrels for Modine Hot Dawg HD30 & HD45 Propane Greenhouse Unit Heater.",
+    "btu": 50400,
+    "kw": 14.8,
+    "u_val": 0.68,
+    "cfm": 5380,
+    "date": "2026-11-14"
+  },
+  {
+    "greenhouse_name": "4mm vs 6mm vs 8mm vs 10mm vs 16mm Polycarbonate U-Value",
+    "slug": "4mm-vs-6mm-vs-8mm-vs-10mm-vs-16mm-polycarbonate-u-value-btu-fan-calculator",
+    "title": "4mm vs 6mm vs 8mm vs 10mm vs 16mm Polycarbonate U-Value Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (12,200 BTU/hr / 3.6 kW across 443 sq ft of Glazing R-Value Comparison), 1,170 CFM exhaust shutter fan, and passive water barrels for 4mm vs 6mm vs 8mm vs 10mm vs 16mm Polycarbonate U-Value.",
+    "btu": 12200,
+    "kw": 3.6,
+    "u_val": 0.52,
+    "cfm": 1170,
+    "date": "2026-11-14"
   }
 ]
