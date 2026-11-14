@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hanifsalman11.github.io/greenhouse-btu-index/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,6 +93,24 @@
   <url>
     <loc>https://hanifsalman11.github.io/greenhouse-btu-index/planta-sigma-20-sungrow-26-1020-1026-arctic-heating-btu-fan-calculator.html</loc>
     <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/riga-xl-janssens-royal-victorian-greenhouse-btu-sizing-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/bio-green-palma-20-1500w-120v-greenhouse-coverage-limit-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://hanifsalman11.github.io/greenhouse-btu-index/dr-heater-dr966-3000w-6000w-240v-greenhouse-coverage-btu-fan-calculator.html</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
