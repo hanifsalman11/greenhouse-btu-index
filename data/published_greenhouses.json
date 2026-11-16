@@ -328,5 +328,38 @@
     "u_val": 0.52,
     "cfm": 2880,
     "date": "2026-11-15"
+  },
+  {
+    "greenhouse_name": "What  Heater  Greenhouse",
+    "slug": "what-heater-greenhouse-btu-fan-calculator",
+    "title": "What  Heater  Greenhouse Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 351 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 800 CFM exhaust shutter fan, and passive water barrels for What  Heater  Greenhouse.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.58,
+    "cfm": 800,
+    "date": "2026-11-16"
+  },
+  {
+    "greenhouse_name": "What  Heater  8X6 Greenhouse",
+    "slug": "what-heater-8x6-greenhouse-btu-fan-calculator",
+    "title": "What  Heater  8X6 Greenhouse Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (7,100 BTU/hr / 2.1 kW across 229 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 400 CFM exhaust shutter fan, and passive water barrels for What  Heater  8X6 Greenhouse.",
+    "btu": 7100,
+    "kw": 2.1,
+    "u_val": 0.58,
+    "cfm": 400,
+    "date": "2026-11-16"
+  },
+  {
+    "greenhouse_name": "What  Heater  8X10 Greenhouse",
+    "slug": "what-heater-8x10-greenhouse-btu-fan-calculator",
+    "title": "What  Heater  8X10 Greenhouse Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (9,600 BTU/hr / 2.8 kW across 311 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 670 CFM exhaust shutter fan, and passive water barrels for What  Heater  8X10 Greenhouse.",
+    "btu": 9600,
+    "kw": 2.8,
+    "u_val": 0.58,
+    "cfm": 670,
+    "date": "2026-11-16"
   }
 ]
