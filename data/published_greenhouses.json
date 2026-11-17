@@ -427,5 +427,38 @@
     "u_val": 0.58,
     "cfm": 800,
     "date": "2026-11-17"
+  },
+  {
+    "greenhouse_name": "Palram Greenhouse Heater",
+    "slug": "palram-greenhouse-heater-btu-fan-calculator",
+    "title": "Palram Greenhouse Heater Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 351 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 800 CFM exhaust shutter fan, and passive water barrels for Palram Greenhouse Heater.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.58,
+    "cfm": 800,
+    "date": "2026-11-17"
+  },
+  {
+    "greenhouse_name": "Are Palram Greenhouses Any Good",
+    "slug": "are-palram-greenhouses-any-good-btu-fan-calculator",
+    "title": "Are Palram Greenhouses Any Good Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 351 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 800 CFM exhaust shutter fan, and passive water barrels for Are Palram Greenhouses Any Good.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.58,
+    "cfm": 800,
+    "date": "2026-11-17"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter)",
+    "slug": "68-ft-greenhouse-6mm-twin-wall-polycarbonate-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (5,000 BTU/hr / 1.5 kW across 207 sq ft of 6mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter).",
+    "btu": 5000,
+    "kw": 1.5,
+    "u_val": 0.58,
+    "cfm": 350,
+    "date": "2026-11-17"
   }
 ]
