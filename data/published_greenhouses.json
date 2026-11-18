@@ -460,5 +460,38 @@
     "u_val": 0.58,
     "cfm": 350,
     "date": "2026-11-17"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter)",
+    "slug": "68-ft-greenhouse-6mm-twin-wall-polycarbonate-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (7,100 BTU/hr / 2.1 kW across 207 sq ft of 6mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter).",
+    "btu": 7100,
+    "kw": 2.1,
+    "u_val": 0.58,
+    "cfm": 350,
+    "date": "2026-11-18"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter)",
+    "slug": "68-ft-greenhouse-6mm-twin-wall-polycarbonate-at-65f-delta-t-sub-zero-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (9,200 BTU/hr / 2.7 kW across 207 sq ft of 6mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (6mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter).",
+    "btu": 9200,
+    "kw": 2.7,
+    "u_val": 0.58,
+    "cfm": 350,
+    "date": "2026-11-18"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter)",
+    "slug": "68-ft-greenhouse-8mm-twin-wall-polycarbonate-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (4,400 BTU/hr / 1.3 kW across 207 sq ft of 8mm Twin-Wall Polycarbonate), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter).",
+    "btu": 4400,
+    "kw": 1.3,
+    "u_val": 0.52,
+    "cfm": 350,
+    "date": "2026-11-18"
   }
 ]
