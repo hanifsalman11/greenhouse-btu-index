@@ -559,5 +559,38 @@
     "u_val": 1.13,
     "cfm": 350,
     "date": "2026-11-19"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter)",
+    "slug": "68-ft-greenhouse-single-tempered-glass-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (13,800 BTU/hr / 4.0 kW across 207 sq ft of Single Tempered Glass), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter).",
+    "btu": 13800,
+    "kw": 4.0,
+    "u_val": 1.13,
+    "cfm": 350,
+    "date": "2026-11-19"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter)",
+    "slug": "68-ft-greenhouse-single-tempered-glass-at-65f-delta-t-sub-zero-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (17,900 BTU/hr / 5.2 kW across 207 sq ft of Single Tempered Glass), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter).",
+    "btu": 17900,
+    "kw": 5.2,
+    "u_val": 1.13,
+    "cfm": 350,
+    "date": "2026-11-19"
+  },
+  {
+    "greenhouse_name": "6×8 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter)",
+    "slug": "68-ft-greenhouse-double-inflated-6-mil-poly-film-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "6×8 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (6,000 BTU/hr / 1.8 kW across 207 sq ft of Double-Inflated 6-Mil Poly Film), 350 CFM exhaust shutter fan, and passive water barrels for 6×8 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter).",
+    "btu": 6000,
+    "kw": 1.8,
+    "u_val": 0.7,
+    "cfm": 350,
+    "date": "2026-11-19"
   }
 ]
