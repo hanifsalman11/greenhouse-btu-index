@@ -823,5 +823,38 @@
     "u_val": 0.52,
     "cfm": 790,
     "date": "2026-11-23"
+  },
+  {
+    "greenhouse_name": "Canopia By Palram Greenhouse Heater",
+    "slug": "canopia-by-palram-greenhouse-heater-btu-fan-calculator",
+    "title": "Canopia By Palram Greenhouse Heater Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 351 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 800 CFM exhaust shutter fan, and passive water barrels for Canopia By Palram Greenhouse Heater.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.58,
+    "cfm": 800,
+    "date": "2026-11-24"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter)",
+    "slug": "812-ft-greenhouse-8mm-twin-wall-polycarbonate-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,600 BTU/hr / 3.1 kW across 345 sq ft of 8mm Twin-Wall Polycarbonate), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter).",
+    "btu": 10600,
+    "kw": 3.1,
+    "u_val": 0.52,
+    "cfm": 790,
+    "date": "2026-11-24"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter)",
+    "slug": "812-ft-greenhouse-8mm-twin-wall-polycarbonate-at-65f-delta-t-sub-zero-winter-btu-fan-calculator",
+    "title": "8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (13,800 BTU/hr / 4.0 kW across 345 sq ft of 8mm Twin-Wall Polycarbonate), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 65°F Delta-T (Sub-Zero Winter).",
+    "btu": 13800,
+    "kw": 4.0,
+    "u_val": 0.52,
+    "cfm": 790,
+    "date": "2026-11-24"
   }
 ]
