@@ -889,5 +889,38 @@
     "u_val": 0.46,
     "cfm": 790,
     "date": "2026-11-24"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Greenhouse (Single Tempered Glass) at 35°F Delta-T (Mild Winter)",
+    "slug": "812-ft-greenhouse-single-tempered-glass-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "8×12 Ft Greenhouse (Single Tempered Glass) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (16,100 BTU/hr / 4.7 kW across 345 sq ft of Single Tempered Glass), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Greenhouse (Single Tempered Glass) at 35°F Delta-T (Mild Winter).",
+    "btu": 16100,
+    "kw": 4.7,
+    "u_val": 1.13,
+    "cfm": 790,
+    "date": "2026-11-24"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter)",
+    "slug": "812-ft-greenhouse-single-tempered-glass-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "8×12 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (23,000 BTU/hr / 6.7 kW across 345 sq ft of Single Tempered Glass), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Greenhouse (Single Tempered Glass) at 50°F Delta-T (Freezing Winter).",
+    "btu": 23000,
+    "kw": 6.7,
+    "u_val": 1.13,
+    "cfm": 790,
+    "date": "2026-11-24"
+  },
+  {
+    "greenhouse_name": "8×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter)",
+    "slug": "812-ft-greenhouse-single-tempered-glass-at-65f-delta-t-sub-zero-winter-btu-fan-calculator",
+    "title": "8×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (29,900 BTU/hr / 8.8 kW across 345 sq ft of Single Tempered Glass), 790 CFM exhaust shutter fan, and passive water barrels for 8×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter).",
+    "btu": 29900,
+    "kw": 8.8,
+    "u_val": 1.13,
+    "cfm": 790,
+    "date": "2026-11-24"
   }
 ]
