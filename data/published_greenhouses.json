@@ -988,5 +988,38 @@
     "u_val": 0.58,
     "cfm": 1040,
     "date": "2026-11-25"
+  },
+  {
+    "greenhouse_name": "What'S The Best Heater  A Greenhouse",
+    "slug": "whats-the-best-heater-a-greenhouse-btu-fan-calculator",
+    "title": "What'S The Best Heater  A Greenhouse Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (10,800 BTU/hr / 3.2 kW across 351 sq ft of 6mm/8mm Twin-Wall Polycarbonate), 800 CFM exhaust shutter fan, and passive water barrels for What'S The Best Heater  A Greenhouse.",
+    "btu": 10800,
+    "kw": 3.2,
+    "u_val": 0.58,
+    "cfm": 800,
+    "date": "2026-11-26"
+  },
+  {
+    "greenhouse_name": "10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter)",
+    "slug": "1012-ft-greenhouse-8mm-twin-wall-polycarbonate-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (8,800 BTU/hr / 2.6 kW across 408 sq ft of 8mm Twin-Wall Polycarbonate), 1,040 CFM exhaust shutter fan, and passive water barrels for 10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 35°F Delta-T (Mild Winter).",
+    "btu": 8800,
+    "kw": 2.6,
+    "u_val": 0.52,
+    "cfm": 1040,
+    "date": "2026-11-26"
+  },
+  {
+    "greenhouse_name": "10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter)",
+    "slug": "1012-ft-greenhouse-8mm-twin-wall-polycarbonate-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (12,500 BTU/hr / 3.7 kW across 408 sq ft of 8mm Twin-Wall Polycarbonate), 1,040 CFM exhaust shutter fan, and passive water barrels for 10×12 Ft Greenhouse (8mm Twin-Wall Polycarbonate) at 50°F Delta-T (Freezing Winter).",
+    "btu": 12500,
+    "kw": 3.7,
+    "u_val": 0.52,
+    "cfm": 1040,
+    "date": "2026-11-26"
   }
 ]
