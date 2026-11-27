@@ -1087,5 +1087,38 @@
     "u_val": 1.13,
     "cfm": 1040,
     "date": "2026-11-27"
+  },
+  {
+    "greenhouse_name": "10×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter)",
+    "slug": "1012-ft-greenhouse-single-tempered-glass-at-65f-delta-t-sub-zero-winter-btu-fan-calculator",
+    "title": "10×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (35,400 BTU/hr / 10.4 kW across 408 sq ft of Single Tempered Glass), 1,040 CFM exhaust shutter fan, and passive water barrels for 10×12 Ft Greenhouse (Single Tempered Glass) at 65°F Delta-T (Sub-Zero Winter).",
+    "btu": 35400,
+    "kw": 10.4,
+    "u_val": 1.13,
+    "cfm": 1040,
+    "date": "2026-11-27"
+  },
+  {
+    "greenhouse_name": "10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter)",
+    "slug": "1012-ft-greenhouse-double-inflated-6-mil-poly-film-at-35f-delta-t-mild-winter-btu-fan-calculator",
+    "title": "10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (11,800 BTU/hr / 3.5 kW across 408 sq ft of Double-Inflated 6-Mil Poly Film), 1,040 CFM exhaust shutter fan, and passive water barrels for 10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 35°F Delta-T (Mild Winter).",
+    "btu": 11800,
+    "kw": 3.5,
+    "u_val": 0.7,
+    "cfm": 1040,
+    "date": "2026-11-27"
+  },
+  {
+    "greenhouse_name": "10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 50°F Delta-T (Freezing Winter)",
+    "slug": "1012-ft-greenhouse-double-inflated-6-mil-poly-film-at-50f-delta-t-freezing-winter-btu-fan-calculator",
+    "title": "10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 50°F Delta-T (Freezing Winter) Winter BTU Heater, U-Value & Exhaust Fan CFM Calculator (2026)",
+    "description": "Calculate exact winter heat loss (16,900 BTU/hr / 5.0 kW across 408 sq ft of Double-Inflated 6-Mil Poly Film), 1,040 CFM exhaust shutter fan, and passive water barrels for 10×12 Ft Greenhouse (Double-Inflated 6-Mil Poly Film) at 50°F Delta-T (Freezing Winter).",
+    "btu": 16900,
+    "kw": 5.0,
+    "u_val": 0.7,
+    "cfm": 1040,
+    "date": "2026-11-27"
   }
 ]
